@@ -1,0 +1,1 @@
+export { StonksIcon } from "./stonks-icon.js";
